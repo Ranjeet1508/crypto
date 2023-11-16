@@ -41,7 +41,7 @@ Start the development server:
 bash
 Copy code
 npm start
-Open your browser and visit http://localhost:3000 to view the application.
+Open your browser and visit https://crypto-mu-five.vercel.app to view the application.
 
 Configuration
 The application fetches data from an external API. If needed, you can modify the API endpoint in the code to use a different data source.
